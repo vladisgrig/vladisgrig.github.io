@@ -8,6 +8,6 @@
 . Получать список созданных задач (xref:get-all/get-all.adoc[GET]).
 . Получать конкретную задачу из списка (xref:get/get.adoc[GET]).
 . Изменять параметры задачи (xref:put/put.adoc[PUT]).
-. Удалять задачу (DELETE).
+. Удалять задачу (xref:delete/delete.adoc[DELETE]).
 
 include::ver.adoc[]
